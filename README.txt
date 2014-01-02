@@ -1,2 +1,2 @@
 Hello 
-Some lignes to try commit
+Some lines to try commit
